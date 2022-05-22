@@ -1,1 +1,1 @@
-O obketivo do jogo e levar a nave para cidade sobrevivendo pelo maximo de tempo possivel desviando dos obstaculos.
+O objetivo do jogo e levar a nave para cidade sobrevivendo pelo maximo de tempo possivel desviando dos obstaculos.
