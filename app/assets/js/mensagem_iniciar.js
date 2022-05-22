@@ -1,0 +1,1 @@
+alert('Clique no botão Subir para iniciar o jogo. \n Divirta-se!')

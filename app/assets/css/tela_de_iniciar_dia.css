@@ -1,0 +1,47 @@
+.bd-placeholder-img {
+
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+body {
+
+display: flex;
+align-items: center;
+padding-top: 40px;
+padding-bottom: 40px;
+height: 100%;
+background-color: rgb(2, 212, 254);
+
+}
+
+.menu {
+
+width: 100%;
+max-width: 330px;
+padding: 15px;
+margin: auto;
+
+}
+
+.menu  {
+
+z-index: 2;
+
+}
+
+.corPrimaria{
+
+    background-color: #fff;
+
+}

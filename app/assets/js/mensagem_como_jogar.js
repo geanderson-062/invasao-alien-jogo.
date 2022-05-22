@@ -1,0 +1,1 @@
+alert('Quanto tempo você pode ficar vivo? \n\n Use o botão SUBIR para permanecer no ar... \n quando perder apertar o botao reiniciar \n\n Bom jogo.')
