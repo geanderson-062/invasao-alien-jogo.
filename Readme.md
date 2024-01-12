@@ -27,6 +27,6 @@ Não é necessária instalação, pois o jogo é executado diretamente do navega
 
 ## Contribuições
 
-Contribuições são sempre bem-vindas! Se você tem alguma ideia ou sugestão, fique à vontade para contribuir. Para contribuir:
+Contribuições são sempre bem-vindas! Se você tem alguma ideia ou sugestão, fique à vontade para contribuir. 
 
-1
+
